@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "980782648984",
+    "project_id": "diazo-e084d",
+    "storage_bucket": "diazo-e084d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980782648984:android:d6016d3b7d25222ab88aed",
+        "android_client_info": {
+          "package_name": "com.diazo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980782648984-8084eb6oaku5n4kvoh5upg8vvb68uk5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diazo.app",
+            "certificate_hash": "3f14c2bce8607026904bb4d767582974966ce5ac"
+          }
+        },
+        {
+          "client_id": "980782648984-icvqpovv47vv1f0tcqeqlnbjnnbmdicd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diazo.app",
+            "certificate_hash": "875790ab5e80d0d2fdf9655bc6fc048f0e310631"
+          }
+        },
+        {
+          "client_id": "980782648984-ihtou99set4j0g0kv9m5bt2lrirr4upv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diazo.app",
+            "certificate_hash": "1469d3becd5b538ec8e3cce308bbd65d9abaae4c"
+          }
+        },
+        {
+          "client_id": "980782648984-ltjumtpdi1tllbpdpt3ta2967mg9curt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diazo.app",
+            "certificate_hash": "c6c3561f47a442c97cc51f42c323120e99a40693"
+          }
+        },
+        {
+          "client_id": "980782648984-5n5rqd0jv0coj14kutetdpfhlo89cfu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_jXXVyu_j-Heo55wkN3n5aIo5uoWtQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980782648984-5n5rqd0jv0coj14kutetdpfhlo89cfu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980782648984-2v4kpr2evpdo7jlnjojordvr5606d48f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diazorestaurant.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980782648984:android:8eae81c8f9920f6fb88aed",
+        "android_client_info": {
+          "package_name": "com.diazorestaurant.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980782648984-cd2k3rfgtf2jnf60ar3nfvs04gtvo853.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diazorestaurant.app",
+            "certificate_hash": "875790ab5e80d0d2fdf9655bc6fc048f0e310631"
+          }
+        },
+        {
+          "client_id": "980782648984-5n5rqd0jv0coj14kutetdpfhlo89cfu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_jXXVyu_j-Heo55wkN3n5aIo5uoWtQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980782648984-5n5rqd0jv0coj14kutetdpfhlo89cfu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980782648984-2v4kpr2evpdo7jlnjojordvr5606d48f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diazorestaurant.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980782648984:android:47f8252648d40f6bb88aed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980782648984-5n5rqd0jv0coj14kutetdpfhlo89cfu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_jXXVyu_j-Heo55wkN3n5aIo5uoWtQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980782648984-5n5rqd0jv0coj14kutetdpfhlo89cfu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980782648984-2v4kpr2evpdo7jlnjojordvr5606d48f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diazorestaurant.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
